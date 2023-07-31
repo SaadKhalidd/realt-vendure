@@ -1,0 +1,45 @@
+# dependencies
+nextjs-commerce-frontend/node_modules
+.pnp
+.pnp.js
+.pnpm-debug.log
+
+# testing
+nextjs-commerce-frontend/coverage
+
+# next.js
+nextjs-commerce-frontend/.next
+nextjs-commerce-frontend/out
+
+# production
+nextjs-commerce-frontend/build
+nextjs-commerce-frontend/dist
+
+# misc
+nextjs-commerce-frontend/.DS_Store
+*.pem
+nextjs-commerce-frontend/.idea
+
+# debug
+nextjs-commerce-frontend/npm-debug.log*
+nextjs-commerce-frontend/yarn-debug.log*
+nextjs-commerce-frontend/yarn-error.log*
+
+# local env files
+nextjs-commerce-frontend/.env
+nextjs-commerce-frontend/.env.local
+nextjs-commerce-frontend/.env.development.local
+nextjs-commerce-frontend/.env.test.local
+nextjs-commerce-frontend/.env.production.local
+
+# vercel
+nextjs-commerce-frontend/.vercel
+
+# Turborepo
+nextjs-commerce-frontend/.turbo
+
+
+vendure-backend/node_modules
+vendure-backend/dist
+vendure-backend/static/assets
+vendure-backend/static/email/test-emails
