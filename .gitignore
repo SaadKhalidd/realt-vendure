@@ -41,5 +41,5 @@ nextjs-commerce-frontend/.turbo
 
 vendure-backend/node_modules
 vendure-backend/dist
-vendure-backend/static/assets
+# vendure-backend/static/assets
 vendure-backend/static/email/test-emails
